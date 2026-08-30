@@ -1,0 +1,1 @@
+Este arquivo simula dados salvos em um disco virtualizado gerenciado por software (SDS).
